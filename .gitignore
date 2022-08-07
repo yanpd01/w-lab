@@ -3,8 +3,7 @@
 
 # Hugo
 /resources/
-public/
 assets/jsconfig.json
 .history/
-# public/
 
+# public/
