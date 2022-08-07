@@ -1,29 +1,30 @@
 ---
-title: Example Event 1
+title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2021
 
 event: Wowchemy Conference
 event_url: https://example.org
 
-location: gdiist
+location: Wowchemy HQ
 address:
-  street: Hengqin
-  city: Zhuhai
-  region: Guangdong Province
-  country: China
+  street: 4500 Serra Mall
+  city: Stanford
+  region: CA  
+  postcode: '94305'
+  country: United Statses
 
-summary: An example event.
+summary: Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”..
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2020-06-01T13:00:00Z'
+date: '2030-08-01T13:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: []
+authors: ["4_Assistant_ypd"]
 tags: []
 
 # Is this a featured talk? (true/false)
