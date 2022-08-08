@@ -4,38 +4,8 @@ title: This could be you !
 
 # Username (this should match the folder name)
 authors:
-  - 3_Postdoc_pyx
+  - 9_recruit
 
-# Is this the primary user of the site?
-superuser: false
-
-# Role/position
-role: ''
-
-# Organizations/Affiliations
-organizations:
-  - name: 
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -58,8 +28,20 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Recruiting
+weight: 99
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+# <center>Open positions
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+课题组致力于脑认知神经网络发育和疾病的机理研究。通过对中国人群先天性智力障碍儿童进行全基因组和非编码RNA测序分析，建立遗传疾病资源库和数据库。结合大数据分析、人工智能机器学习等方法对其中潜在的致病基因及其变异进行筛选。进一步通过构建疾病相关的人类iPSC、类器官及人源化转基因突变小鼠等研究手段，探索这些基因变异对神经系统细胞功能、小鼠学习、认知和认知相关神经网络连接的影响，揭示其致病性和作用机理，为脑认知障碍疾病的早期筛查和治疗方案提供重要的理论依据。
+
+我们一直在寻找富有创造力、精力充沛和协作的研究人员加入我们的跨学科团队！
+
+## Associate Investigator:
+asd
+
+## Postdoc:
+
+## Research Assistant:
+
+

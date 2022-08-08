@@ -15,24 +15,23 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: wangbin@gdiist.cn
+  # phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    street: Heng Qin International  Innotech Center
+    city: Zhuhai
+    region: Guangdong Province
+    # postcode: '94305'
+    country: China
+    country_code: CN
+  # coordinates:
+  #   latitude: '22.132186'
+  #   longitude: '113.467385'
+  directions: Enter Building 6 and take the stairs to Office 2007 on Floor 20
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
-  #contact_links:
+    - 'Monday to Friday: 08:30 to 17:30'
+  # appointment_url: 'https://calendly.com'
+  # contact_links:
   #  - icon: comments
   #    icon_pack: fas
   #    name: Discuss on Forum
@@ -42,16 +41,20 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  # form:
+  #   provider: netlify
+  #   formspree:
+  #     id:
+  #   netlify:
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     captcha: false
 
 design:
-  columns: '1'
+  columns: '2'
+  spacing:
+    padding: ['15px', '0', '10px', '0']
 ---
+<!-- <center> -->
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1847.9348301667078!2d113.467712!3d22.1309447!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34017728864f755b%3A0x6021cff111186f47!2z5biM5bCU6aG_6Iqx5Zut6YWS5bqX77yN5YGc6L2m5Zy6!5e0!3m2!1szh-CN!2s!4v1659933154744!5m2!1sen-US!2s" width="800" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<!-- </center> -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
