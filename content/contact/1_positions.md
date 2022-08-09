@@ -29,8 +29,6 @@ projects: []
 weight: 1
 design:
   columns: '2'
-  background:
-    color: '#FFF'
   spacing:
     padding: ['15px', '0', '10px', '0px']
 ---

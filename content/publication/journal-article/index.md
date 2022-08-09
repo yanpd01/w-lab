@@ -1,12 +1,14 @@
 ---
-title: 'An example journal article'
+title: 'An example journal article1111'
 authors:
-  - admin
+  - 0_PI_wb
   - Robert Ford
+  - 4_Assistant_ypd
 author_notes:
   - 'Equal contribution'
-  - 'Equal contribution'
-date: '2015-09-01T00:00:00Z'
+  - 'test'
+  - ''
+date: '2022-09-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -34,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: pdf/001.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
