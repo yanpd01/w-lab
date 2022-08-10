@@ -35,6 +35,6 @@ design:
 
 # Notice
 
-We're a growing team that's recruiting people, maybe you'll be one of us. 
+We're recruiting people, maybe you'll be one of us. 
 
 [Click to view more positions openings.](/author/this-could-be-you/)

@@ -2,10 +2,6 @@
 # Display name
 title: Xiaogang Li
 
-# Username (this should match the folder name)
-authors: ['3_Postdoc_lxg']
-
-
 # Is this the primary user of the site?
 superuser: false
 

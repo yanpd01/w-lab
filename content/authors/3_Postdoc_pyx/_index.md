@@ -2,10 +2,6 @@
 # Display name
 title: Yuxiang Pan
 
-# Username (this should match the folder name)
-authors:
-  - 3_Postdoc_pyx
-
 # Is this the primary user of the site?
 superuser: false
 

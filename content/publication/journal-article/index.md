@@ -3,7 +3,8 @@ title: 'An example journal article1111'
 authors:
   - 0_PI_wb
   - Robert Ford
-  - 4_Assistant_ypd
+  - 4_Assistant_yw
+  - 9_hide_
 author_notes:
   - 'Equal contribution'
   - 'test'
@@ -12,7 +13,8 @@ date: '2022-09-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-08-01T00:00:00Z'
+
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

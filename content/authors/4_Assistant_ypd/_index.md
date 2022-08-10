@@ -2,10 +2,6 @@
 # Display name
 title: Pengdong Yan
 
-# Username (this should match the folder name)
-authors:
-  - 4_Assistant_yw
-
 # Is this the primary user of the site?
 superuser: false
 
@@ -29,10 +25,10 @@ education:
   courses:
     - course: MEng in Bioengineering
       institution: Shaanxi Normal University
-      year: 2022
+      year: 2019-2022
     - course: BSc in Biotechnology
       institution: Shaanxi Normal University
-      year: 2018
+      year: 2014-2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

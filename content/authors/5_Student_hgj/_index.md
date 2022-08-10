@@ -2,10 +2,6 @@
 # Display name
 title: Guojun Han
 
-# Username (this should match the folder name)
-authors:
-  - 5_Student_hgj
-
 # Is this the primary user of the site?
 superuser: false
 
@@ -14,28 +10,25 @@ role: Graduate student
 
 # Organizations/Affiliations
 organizations:
-  - name: Guangdong Institute of Intelligence Science and Technology
-4_Assistant_yw copy    url: 'http://gdiist.cn/'
+  - name: Center for Excellence in Molecular Cell Science, CAS
+    url: 'http://cemcs.cas.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I aim to use a systems biology approach to paint a panoramic picture of brain development and explore the molecular mechanisms underlying intelligence.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - System biology
+  - Brain development
+  - cognitive neural network
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Systems Biology
+      institution: Center for Excellence in Molecular Cell Science, CAS
+      year: 2020-2023 (ongoing)
+    - course: BSc in Biology Science
+      institution: Marine College of ShanDong university (weihai)
+      year: 2014-2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,13 +37,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'mailto:hanguojun2020@sibcb.ac.cn'
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,6 +57,6 @@ user_groups:
 weight: 32
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+GuoJun Han is a postgraguate in Systems Biology Laboratory of Center for Excellence in Molecular Cell Science, CAS.
+He is now an exchange student working at Lab of Cognitive Neural Network Developmental and Diseases in Guangdong Institute of Intelligence Science and Technology. 
+He is learning how to depict the developmental landscape of cognitive neural network by means of bioinfomatics.

@@ -5,9 +5,6 @@ title: Bin Wang
 # Is this the primary user of the site?
 superuser: true
 
-authors:
-  - 0_PI_wb
-
 # Role/position
 role: Principal Investigator
 

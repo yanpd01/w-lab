@@ -2,10 +2,6 @@
 # Display name
 title: Yichen Wu
 
-# Username (this should match the folder name)
-authors:
-  - 5_Student_hgj
-
 # Is this the primary user of the site?
 superuser: false
 
@@ -14,8 +10,8 @@ role: Graduate student
 
 # Organizations/Affiliations
 organizations:
-  - name: Guangdong Institute of Intelligence Science and Technology
-4_Assistant_yw copy    url: 'http://gdiist.cn/'
+  - name: Beijing Normal University
+    url: 'https://www.bnu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -28,8 +24,8 @@ interests:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+      institution: Beijing Normal University
+      year: 2022-2025 (ongoing)
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009

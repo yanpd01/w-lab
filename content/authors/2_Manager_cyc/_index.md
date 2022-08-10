@@ -2,10 +2,6 @@
 # Display name
 title: Yanci Chen
 
-# Username (this should match the folder name)
-authors:
-  - 2_Manager_cyc
-
 # Is this the primary user of the site?
 superuser: false
 
