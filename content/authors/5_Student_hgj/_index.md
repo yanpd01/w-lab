@@ -25,7 +25,7 @@ education:
   courses:
     - course: MSc in Systems Biology
       institution: Center for Excellence in Molecular Cell Science, CAS
-      year: 2020-2023 (ongoing)
+      year: 2020-2023 (expected)
     - course: BSc in Biology Science
       institution: Marine College of ShanDong university (weihai)
       year: 2014-2020
@@ -56,7 +56,8 @@ user_groups:
   - Members
 weight: 32
 ---
+![hgj](hgj01.jpg)
 
-GuoJun Han is a postgraguate in Systems Biology Laboratory of Center for Excellence in Molecular Cell Science, CAS.
+&emsp;&emsp;GuoJun Han(韩国军) is a postgraguate in Systems Biology Laboratory of Center for Excellence in Molecular Cell Science, CAS.
 He is now an exchange student working at Lab of Cognitive Neural Network Developmental and Diseases in Guangdong Institute of Intelligence Science and Technology. 
 He is learning how to depict the developmental landscape of cognitive neural network by means of bioinfomatics.

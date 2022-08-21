@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Positions"
+title: "Recruiting"
 subtitle: ""
 summary: ""
 authors: []
@@ -30,11 +30,12 @@ weight: 1
 design:
   columns: '2'
   spacing:
-    padding: ['15px', '0', '10px', '0px']
+    padding: ['50px', '0px', '50px', '0px']
+# padding: ['上边距', '右边距', '下边距', '左边距']
 ---
 
-# Notice
+# Notice!
 
-We're recruiting people, maybe you'll be one of us. 
+We are recruiting members, maybe you will be one of us. 
 
 [Click to view more positions openings.](/author/this-could-be-you/)

@@ -32,8 +32,11 @@ We are always looking for creative, energetic and collaborative researchers to j
 
 ## Associate Investigator:
 
+<br>
 
 ## Postdoc:
+
+<br>
 
 ## Research Assistant:
 

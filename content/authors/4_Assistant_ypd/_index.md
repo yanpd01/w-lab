@@ -17,9 +17,9 @@ organizations:
 bio: A typical science geek loving programming and exploring the mysteries of life.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bioinformatics
+  - Brain development
+  - Programming
 
 education:
   courses:
@@ -61,10 +61,6 @@ user_groups:
 # control the order of authors
 weight: 23
 ---
-![asd](brain2.jpg)
+![ypd](ypd01.jpg)
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-<!-- ![asd](brain.jpg) -->
+&emsp;&emsp;Pengdong Yan(闫鹏东), a typical engineering man, is good at statistical analysis of bioinformatic data. Although his main field is bioinformatics, he occasionally does some pure computer research. For example, this website is constructed and maintained by him. You can go to his [github](https://github.com/yanpd01) homepage to view more of his works.
