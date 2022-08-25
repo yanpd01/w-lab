@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **Lab of Cognitive Neural Network Development and Diseases** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The **Lab of Cognitive Neural Network Development and Diseases** is a research group dedicated to the mechanism of brain cognitive neural network development and disease.
